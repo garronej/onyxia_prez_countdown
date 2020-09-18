@@ -1,1 +1,3 @@
-# teasing_onyxia
+# haproxy-template
+
+https://teasing.lab.sspcloud.fr
