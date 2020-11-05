@@ -213,7 +213,7 @@ input.input100 {
 
 .s2-txt3 {
   font-family: Lato-Regular;
-  font-size: 14px;
+  font-size: 25px;
   line-height: 1.5;
   color: #999999;
 }
@@ -232,14 +232,14 @@ input.input100 {
 
 .m1-txt1 {
   font-family: Poppins-Regular;
-  font-size: 24px;
+  font-size: 50px;
   line-height: 1.5;
   color: #555555;
 }
 
 .m1-txt2 {
   font-family: Poppins-Bold;
-  font-size: 24px;
+  font-size: 50px;
   line-height: 1.5;
   color: #555555;
 }
@@ -482,7 +482,7 @@ input.input100 {
 [ XXL ]*/
 @media (max-width: 1600px) {
   .respon1 {
-    max-width: 38%;
+    max-width: 43%;
   }
 }
 
