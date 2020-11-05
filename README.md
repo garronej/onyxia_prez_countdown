@@ -1,3 +1,3 @@
 # haproxy-template
 
-https://teasing.lab.sspcloud.fr
+https://garronej.github.io/onyxia_prez_countdown
